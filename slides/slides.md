@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Kept in Jesus' Name
+# Kept in <br> Jesus' Name
 ## John 17
 
 ---
