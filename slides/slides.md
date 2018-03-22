@@ -15,3 +15,6 @@
 1. Fullest **Joy** [(v13)](# "ref")
 1. Not of the **World** [(v14-15)](# "ref")
 1. **Sanctified** in the Truth [(v16-17)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
