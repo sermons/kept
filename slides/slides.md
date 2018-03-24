@@ -70,10 +70,17 @@ your word is truth.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
-1. **Kept** in Jesus' Name [(v11-12)](# "ref")
-1. Fullest **Joy** [(v13)](# "ref")
-1. Not of the **World** [(v14-15)](# "ref")
-1. **Sanctified** in the Truth [(v16-17)](# "ref")
+1. **Glorified** by the Father [(v1-5](# "ref")
+1. **Belonging** to God [(v6-10)](# "ref")
+1. **Kept** in His Name [(v11-19)](# "ref")
+1. **United** as a Witness [(v20-26)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Kept in Jesus' Name [(17:11-19)](# "ref")
+1. **Kept** in His Name [(v11-13](# "ref")
+1. **Hated** by the World [(v14-15](# "ref")
+1. **Sanctified** in the Truth [(v16-19](# "ref")
 
 ---
 And I am no longer in the world, <br>
