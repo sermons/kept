@@ -70,17 +70,17 @@ your word is truth.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
-1. **Glorified** by the Father [(v1-5](# "ref")
-1. **Belonging** to God [(v6-10)](# "ref")
-1. **Kept** in His Name [(v11-19)](# "ref")
-1. **United** as a Witness [(v20-26)](# "ref")
+1. Personal: **Glorified** by the Father [(v1-5](# "ref")
+1. People: **Belonging** to God [(v6-10)](# "ref")
+1. Petition: **Kept** in His Name [(v11-19)](# "ref")
+1. Purpose: **United** as a Witness [(v20-26)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Kept in Jesus' Name [(17:11-19)](# "ref")
 1. **Kept** in His Name [(v11-13](# "ref")
 1. **Hated** by the World [(v14-15](# "ref")
-1. **Sanctified** in the Truth [(v16-19](# "ref")
+1. **Sanctified** in His Word [(v16-19](# "ref")
 
 ---
 And I am no longer in the world, <br>
@@ -105,13 +105,6 @@ that the Scripture might be fulfilled.
 [John 17:12 (ESV)](# "ref")
 
 ---
-<!-- .slide: data-background="white" -->
-# Q1
-
----
-## outline
-
----
 But now I am coming to you, <br>
 and these things I speak in the world,
 
@@ -122,7 +115,7 @@ fulfilled in themselves.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Q1
 
 ---
 ## outline
@@ -144,7 +137,7 @@ but that you keep them from the evil one.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Q2
 
 ---
 ## outline
@@ -163,7 +156,7 @@ your word is truth.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
