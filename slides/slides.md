@@ -68,6 +68,10 @@ your word is truth.
 [John 17:16-17 (ESV) (p.5/5)](# "ref")
 
 ---
+## John: The Heart of Christ
+1.
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
 1. Personal: **Glorified** by the Father [(v1-5](# "ref")
