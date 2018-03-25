@@ -212,16 +212,16 @@ and not one of them has been lost
 
 ---
 <!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
-The LORD is your **keeper**;<br>
-the LORD is your *shade* on your right hand.
+The LORD is your *keeper*;<br>
+the LORD is your **shade** on your right hand.
 
 [7](# "ref")
-The LORD will **keep** you from all *evil*;<br>
-he will **keep** your *life*.
+The LORD will *keep* you from all **evil**;<br>
+he will *keep* your **life**.
 
 [8](# "ref")
-The LORD will **keep**<br>
-your *going* out and your *coming* in<br>
+The LORD will *keep*<br>
+your **going** out and your **coming** in<br>
 from this time forth and forevermore.
 
 [Psalms 121:5,7-8 (ESV)](# "ref")
