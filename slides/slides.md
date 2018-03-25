@@ -394,7 +394,11 @@ that they also may be **sanctified** in truth.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have we consecrated ourselves to God's will?
+# Have we **consecrated** ourselves to God's **will**?
+
+>>>
++ **cleansed**, pursuing holiness
++ **missions** mindset
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="empty" -->
