@@ -88,10 +88,10 @@ your word is truth.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
-## Kept in Jesus' Name <br>[(17:11-19)](# "ref")
+## Jesus' Petition [(17:11-19)](# "ref")
 1. **Kept** in His Name [(v11-13)](# "ref")
 1. **Hated** by the World [(v14-15)](# "ref")
-1. **Sanctified** in His Word [(v16-19](# "ref")
+1. **Sanctified** in His Word [(v16-19)](# "ref")
 
 ---
 And I am no longer in the world, <br>
