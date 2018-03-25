@@ -106,7 +106,7 @@ your word is truth.
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
 1. **Kept** in His Name [(v11-13)](# "ref")
-1. **Hated** by the World [(v14-15)](# "ref")
+1. Kept from **Evil**  [(v14-15)](# "ref")
 1. **Sanctified** in His Word [(v16-19)](# "ref")
 
 >>>
@@ -152,6 +152,7 @@ which you have **given me**
 + given **name**: Jesus Christ: **Saviour**, Anointed
   + **Father** God has auth to **save**
   + **gave** auth to Jesus
++ Lord is my keeper (psalm)
 
 ---
 While I was **with** them, <br>
@@ -195,7 +196,7 @@ I will **come to you**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What does it mean for the Lord to be my **keeper**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -212,6 +213,12 @@ just as I am not of the world.
 
 [John 17:14 (ESV)](# "ref")
 
+>>>
++ John 15 world hates
++ not of the world: identity
++ v7ff: of God, given to Christ, given word, kept word, known + believed
++ c.f. election/predestination
+
 ---
 I do not ask <br>
 that you take them out of the world,<br>
@@ -219,15 +226,23 @@ but that you keep them from the evil one.
 
 [John 17:15 (ESV)](# "ref")
 
+>>>
++ not looking same as world
++ "I'm normal just like you! "
+
 ---
 As you sent me into the world,
 so I have sent them into the world.
 
 [John 17:18 (ESV)](# "ref")
 
+>>>
++ missions mindset
++ Phil 1;24?
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Why has Jesus left us in this broken world? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -254,9 +269,12 @@ that they also may be sanctified in truth.
 
 [John 17:19 (ESV)](# "ref")
 
+>>>
++ sanctified: not just clean, but dedicated for purpose
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Have we consecrated ourselves in God's truth? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
