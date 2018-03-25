@@ -8,6 +8,13 @@
 
 [###](#/review "secret")
 
+>>>
++ Christ **prayed** to Father for us
++ deep **concern** over us
++ if anyone's prayers are **heard**, it's the Son's!
++ Father is **able** to carry it out
++ **what** was the content of Jesus' prayer?
+
 ---
 [11](# "ref")
 And I am no longer in the world, <br>
@@ -118,17 +125,17 @@ your word is truth.
 ---
 And I am no longer in the world, <br>
 but they are **in the world**,
-<span class="fragment" data-fragment-index="2"><strong>(People)</strong></span>
+<span class="fragment" data-fragment-index="2">*(People)*</span>
 <br>
 and I am **coming** to you.
-<span class="fragment" data-fragment-index="1"><strong>(Personal)</strong></span>
+<span class="fragment" data-fragment-index="1">*(Personal)*</span>
 
 Holy Father, **keep** them in your name,
-<span class="fragment" data-fragment-index="3"><strong>(Petition)</strong></span>
+<span class="fragment" data-fragment-index="3">*(Petition)*</span>
 <br>
 which you have given me, <br>
 that they may be **one**,
-<span class="fragment" data-fragment-index="4"><strong>(Purpose)</strong></span>
+<span class="fragment" data-fragment-index="4">*(Purpose)*</span>
 <br>
 even as we are one.
 
