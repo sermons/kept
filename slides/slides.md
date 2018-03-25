@@ -194,7 +194,11 @@ and not one of them has been lost
 [John 17:12 (ESV)](# "ref")
 
 >>>
-+ **kept** / guard
++ **kept**:
+  + **King's** keep: treasure, defend
+    + **guarded**: safe
+  + **prison** keeper: guard, hold fast
++ both **external** + **internal** threats
 + son of **perdition**
 
 ---
@@ -213,6 +217,9 @@ from this time forth and forevermore.
 [Psalms 121:5,7-8 (ESV)](# "ref")
 
 >>>
++ King's keep (defend): shade
++ prison keep (guard): from evil
+  + going/coming: limit **freedom**
 
 ---
 I have **manifested** your name <br>
@@ -264,6 +271,11 @@ that they may have **my joy** <br>
 fulfilled in themselves.
 
 [John 17:13 (ESV)](# "ref")
+
+>>>
++ **how** can we have **joy**?
++ Jesus left us, unattainable light
++ world **hates** us
 
 ---
 And I will **ask** the Father, <br>
