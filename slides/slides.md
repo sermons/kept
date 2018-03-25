@@ -75,7 +75,7 @@ your word is truth.
 [John 17:16-17 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> id="review" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> id="review" -->
 ## John: The Heart of Christ
 1. *First* Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
   1. *Second*: Galilee to Jerusalem [(ch4-5)](# "ref")
@@ -91,7 +91,7 @@ your word is truth.
   + road to the **cross**
 
 ---
-<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
 1. Personal: *Glorified* by the Father [(v1-5)](# "ref")
 1. People: *Belonging* to God [(v6-10)](# "ref")
