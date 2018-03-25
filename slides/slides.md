@@ -142,17 +142,26 @@ even as we are one.
 + review the **purpose**: **unity**
 
 ---
-Holy Father, **keep** them in **your name**,
+Holy Father, **keep** them in **your name**, <br>
 which you have **given me**
 
 [John 17:11 (ESV)](# "ref")
 
 >>>
-+ **keep**: protect + guard
 + given **name**: Jesus Christ: **Saviour**, Anointed
   + **Father** God has auth to **save**
   + **gave** auth to Jesus
-+ Lord is my keeper (psalm)
+
+---
+Therefore God ... bestowed on him  <br>
+the **name** that is above every name, ...
+
+[11](# "ref")
+[that] every tongue confess  <br>
+that **Jesus Christ is Lord**,  <br>
+to the glory of God the **Father**.
+
+[Philippians 2:9,11 (ESV)](# "ref")
 
 ---
 While I was **with** them, <br>
@@ -168,6 +177,23 @@ and not one of them has been lost
 + **report** / past
 + **kept** / guard
 + son of **perdition**
+
+---
+The LORD is your **keeper**;<br>
+the LORD is your *shade* on your right hand.
+
+[7](# "ref") 
+The LORD will **keep** you from all *evil*;<br>
+he will **keep** your *life*.
+
+[8](# "ref") 
+The LORD will **keep**<br>
+your *going* out and your *coming* in<br>
+from this time forth and forevermore.
+
+[Psalms 121:5,7-8 (ESV)](# "ref")
+
+>>>
 
 ---
 I have **manifested** your name <br>
