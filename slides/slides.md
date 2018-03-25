@@ -134,26 +134,62 @@ that they may be one, even as we are one.
 
 >>>
 + 4-point outline of ch17
++ reflect on **self**: imminent **glorification**
++ remember **disciples**: in but not **of**
++ request the **Father**: to **keep**
++ review the **purpose**: **unity**
 
 ---
-While I was with them, <br>
-I kept them in your name, <br>
+Holy Father, **keep** them in **your name**,
+which you have **given me**
+
+[John 17:11 (ESV)](# "ref")
+
+>>>
++ **keep**: protect + guard
++ given **name**: Jesus Christ: **Saviour**, Anointed
+  + **Father** God has auth to **save**
+  + **gave** auth to Jesus
+
+---
+While I was **with** them, <br>
+I **kept** them in your **name**, <br>
 which you have given me.
 
-I have guarded them, and not one of them <br>
-has been lost except the son of destruction, <br>
-that the Scripture might be fulfilled.
+I have **guarded** them, <br>
+and not one of them has been lost
 
 [John 17:12 (ESV)](# "ref")
 
----
-But now I am coming to you, <br>
-and these things I speak in the world,
+>>>
++ **report** / past
++ **kept** / guard
++ son of **perdition**
 
-that they may have my joy <br>
+---
+But now I am **coming** to you, <br>
+and these things I speak **in the world**,
+
+that they may have **my joy** <br>
 fulfilled in themselves.
 
 [John 17:13 (ESV)](# "ref")
+
+---
+And I will **ask** the Father, <br>
+and he will give you another **Helper**, <br>
+to be **with** you forever
+
+[18](# "ref")
+I will not leave you as **orphans**; <br>
+I will **come to you**.
+
+[John 14:16,18 (ESV)](# "ref")
+
+>>>
++ Jesus **left** us
++ but left us His **Spirit**
+  + Advocate, Helper, Encourager
 
 ---
 <!-- .slide: data-background="white" -->
