@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="title" -->
 # Kept in <br> Jesus' Name
 ## John 17
 
@@ -103,7 +103,7 @@ your word is truth.
   + God has **loved** us
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
 1. **Kept** in His Name [(v11-12)](# "ref")
 1. Kept from **Evil**  [(v13-15)](# "ref")
@@ -231,7 +231,7 @@ should go and bear **fruit**
 # What does it mean for the Lord to be my **keeper**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
 1. Kept in His Name [(v11-12)](# "ref")
 1. **Kept from Evil** [(v13-15)](# "ref")
@@ -302,7 +302,7 @@ but that you **keep** them from the **evil** one.
 # Why has Jesus left us in this broken world?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
 1. Kept in His Name [(v11-12)](# "ref")
 1. Kept from Evil [(v13-15)](# "ref")
@@ -338,4 +338,4 @@ that they also may be **sanctified** in truth.
 # Have we consecrated ourselves to God's will?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="empty" -->
