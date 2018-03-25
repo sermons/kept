@@ -151,6 +151,12 @@ but that you keep them from the evil one.
 [John 17:15 (ESV)](# "ref")
 
 ---
+As you sent me into the world,
+so I have sent them into the world.
+
+[John 17:18 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Q2
 
@@ -172,6 +178,12 @@ Sanctify them in the truth; <br>
 your word is truth.
 
 [John 17:17 (ESV)](# "ref")
+
+---
+For their sake I consecrate myself,
+that they also may be sanctified in truth.
+
+[John 17:19 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
