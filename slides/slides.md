@@ -68,7 +68,7 @@ your word is truth.
 [John 17:16-17 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: id="review" -->
+<!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> id="review" -->
 ## John: The Heart of Christ
 1. *First* Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
   1. *Second*: Galilee to Jerusalem [(ch4-5)](# "ref")
@@ -84,7 +84,7 @@ your word is truth.
   + road to the **cross**
 
 ---
-<!-- .slide: class="outline" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
 1. Personal: *Glorified* by the Father [(v1-5)](# "ref")
 1. People: *Belonging* to God [(v6-10)](# "ref")
@@ -155,6 +155,7 @@ which you have **given me**
   + **gave** auth to Jesus
 
 ---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 ... in the name of **Jesus Christ** <br>
 I pray, **Amen**
 
@@ -166,6 +167,7 @@ I pray, **Amen**
 + Philippians: power of Jesus' name:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Therefore God ... **bestowed** on him  <br>
 the **name** that is above every name, ...
 
@@ -202,6 +204,7 @@ and not one of them has been lost
 + son of **perdition**
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 The LORD is your **keeper**;<br>
 the LORD is your *shade* on your right hand.
 
@@ -217,40 +220,9 @@ from this time forth and forevermore.
 [Psalms 121:5,7-8 (ESV)](# "ref")
 
 >>>
-+ King's keep (defend): shade
-+ prison keep (guard): from evil
++ King's keep (defend): **shade**
++ prison keep (guard): from **evil**
   + going/coming: limit **freedom**
-
----
-I have **manifested** your name <br>
-to the people whom **you gave me** <br>
-out of the world.
-
-**Yours** they were, <br>
-and you **gave** them to me, <br>
-and they have **kept** your word.
-
-[John 17:6 (ESV)](# "ref")
-
->>>
-+ identity
-+ belong to God
-+ given (auth) to Jesus
-+ have kept His word
-
----
-You did **not** choose me, <br>
-but I **chose** you
-
-and **appointed** you that you <br>
-should go and bear **fruit**
-
-[John 15:16a (ESV)](# "ref")
-
->>>
-+ election
-+ but not purely passive
-+ chosen for a purpose
 
 ---
 <!-- .slide: data-background="white" -->
@@ -278,6 +250,7 @@ fulfilled in themselves.
 + world **hates** us
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 And I will **ask** the Father, <br>
 and he will give you another **Helper**, <br>
 to be **with** you forever
@@ -302,11 +275,30 @@ just as **I am** not of the world.
 [John 17:14 (ESV)](# "ref")
 
 >>>
-+ not of the world: identity
-+ repeated in v16
++ not of the world
+  + repeated in v16
++ identity: **belonging** to God
+
+---
+<!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
+I have **manifested** your name <br>
+to the people whom **you gave me** <br>
+out of the world.
+
+**Yours** they were, <br>
+and you **gave** them to me, <br>
+and they have **kept** your word.
+
+[John 17:6 (ESV)](# "ref")
+
+>>>
++ belong to God
++ given (auth) to Jesus
++ have kept His word
 + c.f. election/predestination
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 If you were **of the world**, <br>
 the world would **love** you as its own;
 
@@ -330,7 +322,7 @@ but that you **keep** them from the **evil** one.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why has Jesus left us in this broken world?
+# Why has Jesus **left** us in this **broken** world?
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
@@ -344,6 +336,25 @@ but that you **keep** them from the **evil** one.
 your **word** is truth.
 
 [John 17:17 (ESV)](# "ref")
+
+>>>
++ both **purification**
++ and **consecration**: dedicate for purpose:
+
+---
+<!-- .slide: <%= bg("unsplash-vGQ49l9I4EE-grapes_hands.jpg") %> -->
+You did **not** choose me, <br>
+but I **chose** you
+
+and **appointed** you that you <br>
+should go and bear **fruit**
+
+[John 15:16a (ESV)](# "ref")
+
+>>>
++ election
++ but not purely passive
++ chosen for a purpose
 
 ---
 As you **sent** me into the world, <br>
