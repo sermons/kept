@@ -233,7 +233,7 @@ from this time forth and forevermore.
 
 ---
 <!-- .slide: data-background="white" -->
-# What does it mean for the Lord to be my **keeper**?
+# God **keeps** us in the name of **Jesus** the **Messiah**
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
@@ -275,7 +275,8 @@ I will **come to you**.
 
 ---
 I have given them your **word**, <br>
-and the world has **hated** them <br>
+and the world has **hated** them
+
 because they are **not of the world**, <br>
 just as **I am** not of the world.
 
@@ -317,8 +318,9 @@ therefore the world **hates** you.
 [John 15:19 (ESV)](# "ref")
 
 ---
-I do not ask <br>
-that you take them **out** of the world,<br>
+I do not ask that you <br>
+take them **out** of the world,
+
 but that you **keep** them from the **evil** one.
 
 [John 17:15 (ESV)](# "ref")
@@ -329,7 +331,7 @@ but that you **keep** them from the **evil** one.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why has Jesus **left** us in this **broken** world?
+# Why has Jesus <br> **left** us in this <br> **broken** world?
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> class="outline" -->
@@ -345,7 +347,7 @@ your **word** is truth.
 [John 17:17 (ESV)](# "ref")
 
 >>>
-+ both **purification**
++ both **purification** (keep from evil)
 + and **consecration**: dedicate for purpose:
 
 ---
@@ -364,6 +366,7 @@ should go and bear **fruit**
 + chosen for a purpose
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 As you **sent** me into the world, <br>
 so I have **sent** them **into** the world.
 
@@ -371,6 +374,7 @@ so I have **sent** them **into** the world.
 
 >>>
 + missions mindset
++ e.g., JJ waiting while others cut in line
 
 ---
 For their sake I **consecrate** myself, <br>
@@ -379,7 +383,14 @@ that they also may be **sanctified** in truth.
 [John 17:19 (ESV)](# "ref")
 
 >>>
-+ sanctified: not just clean, but dedicated for purpose
++ **consecrate**: sanctify, make holy
+  + but Jesus was **already** clean, sinless!
++ **dedicate**, set aside for focused **purpose**
+  + Messiah, **Anointed**
++ &rArr; **crucifixion** + resurrection
+  + His **purpose** (die for us)
+  + **cleanses** us (pay for our sins)
+  + and gives us **purpose** (walk worthily)
 
 ---
 <!-- .slide: data-background="white" -->
