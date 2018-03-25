@@ -69,7 +69,13 @@ your word is truth.
 
 ---
 ## John: The Heart of Christ
-1.
+1. **First** Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
+  1. **Second** Journey: Galilee to Jerusalem [(ch4-5)](# "ref")
+  1. **Third** Journey: Galilee to Jerusalem [(ch6-8)](# "ref")
+  1. **Signs** in Jerusalem [(ch9-12)](# "ref")
+1. Instruction to the **Disciples** [(ch13-16)](# "ref")
+  1. High Priestly **Prayer** [(ch17)](# "ref")
+1. **Crucifixion** and Resurrection [(ch18-21)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
