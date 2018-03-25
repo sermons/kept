@@ -105,8 +105,8 @@ your word is truth.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
-1. **Kept** in His Name [(v11-13)](# "ref")
-1. Kept from **Evil**  [(v14-15)](# "ref")
+1. **Kept** in His Name [(v11-12)](# "ref")
+1. Kept from **Evil**  [(v13-15)](# "ref")
 1. **Sanctified** in His Word [(v16-19)](# "ref")
 
 >>>
@@ -170,6 +170,48 @@ and not one of them has been lost
 + son of **perdition**
 
 ---
+I have **manifested** your name <br>
+to the people whom **you gave me** <br>
+out of the world. 
+
+**Yours** they were, <br>
+and you **gave** them to me, <br>
+and they have **kept** your word.
+
+[John 17:6 (ESV)](# "ref")
+
+>>>
++ identity
++ belong to God
++ given (auth) to Jesus
++ have kept His word
+
+---
+You did **not** choose me, <br>
+but I **chose** you 
+
+and **appointed** you that you <br>
+should go and bear **fruit**
+
+[John 15:16a (ESV)](# "ref")
+
+>>>
++ election
++ but not purely passive
++ chosen for a purpose
+
+---
+<!-- .slide: data-background="white" -->
+# What does it mean for the Lord to be my **keeper**?
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Jesus' Petition [(17:11-19)](# "ref")
+1. Kept in His Name [(v11-12)](# "ref")
+1. **Kept from Evil** [(v13-15)](# "ref")
+1. Sanctified in His Word [(v16-19)](# "ref")
+
+---
 But now I am **coming** to you, <br>
 and these things I speak **in the world**,
 
@@ -195,34 +237,33 @@ I will **come to you**.
   + Advocate, Helper, Encourager
 
 ---
-<!-- .slide: data-background="white" -->
-# What does it mean for the Lord to be my **keeper**?
-
----
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
-## Jesus' Petition [(17:11-19)](# "ref")
-1. Kept in His Name [(v11-13)](# "ref")
-1. **Hated by the World** [(v14-15)](# "ref")
-1. Sanctified in His Word [(v16-19)](# "ref")
-
----
-I have given them your word, <br>
-and the world has hated them <br>
-because they are not of the world, <br>
-just as I am not of the world.
+I have given them your **word**, <br>
+and the world has **hated** them <br>
+because they are **not of the world**, <br>
+just as **I am** not of the world.
 
 [John 17:14 (ESV)](# "ref")
 
 >>>
-+ John 15 world hates
 + not of the world: identity
-+ v7ff: of God, given to Christ, given word, kept word, known + believed
++ repeated in v16
 + c.f. election/predestination
 
 ---
+If you were **of the world**, <br>
+the world would **love** you as its own; 
+
+but because you are **not of the world**, <br>
+but I **chose** you out of the world, 
+
+therefore the world **hates** you.
+
+[John 15:19 (ESV)](# "ref")
+
+---
 I do not ask <br>
-that you take them out of the world,<br>
-but that you keep them from the evil one.
+that you take them **out** of the world,<br>
+but that you **keep** them from the **evil** one.
 
 [John 17:15 (ESV)](# "ref")
 
@@ -231,8 +272,25 @@ but that you keep them from the evil one.
 + "I'm normal just like you! "
 
 ---
-As you sent me into the world,
-so I have sent them into the world.
+<!-- .slide: data-background="white" -->
+# Why has Jesus left us in this broken world? 
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Jesus' Petition [(17:11-19)](# "ref")
+1. Kept in His Name [(v11-12)](# "ref")
+1. Kept from Evil [(v13-15)](# "ref")
+1. **Sanctified in His Word** [(v16-19)](# "ref")
+
+---
+**Sanctify** them in the truth; <br>
+your **word** is truth.
+
+[John 17:17 (ESV)](# "ref")
+
+---
+As you **sent** me into the world,
+so I have **sent** them **into** the world.
 
 [John 17:18 (ESV)](# "ref")
 
@@ -241,31 +299,8 @@ so I have sent them into the world.
 + Phil 1;24?
 
 ---
-<!-- .slide: data-background="white" -->
-# Why has Jesus left us in this broken world? 
-
----
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
-## Jesus' Petition [(17:11-19)](# "ref")
-1. Kept in His Name [(v11-13)](# "ref")
-1. Hated by the World [(v14-15)](# "ref")
-1. **Sanctified in His Word** [(v16-19)](# "ref")
-
----
-They are not of the world,<br>
-just as I am not of the world.
-
-[John 17:16 (ESV)](# "ref")
-
----
-Sanctify them in the truth; <br>
-your word is truth.
-
-[John 17:17 (ESV)](# "ref")
-
----
-For their sake I consecrate myself,
-that they also may be sanctified in truth.
+For their sake I **consecrate** myself,
+that they also may be **sanctified** in truth.
 
 [John 17:19 (ESV)](# "ref")
 
@@ -274,7 +309,7 @@ that they also may be sanctified in truth.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have we consecrated ourselves in God's truth? 
+# Have we consecrated ourselves to God's will? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
