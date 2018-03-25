@@ -117,18 +117,18 @@ your word is truth.
 
 ---
 And I am no longer in the world, <br>
-but they are in the world,
-<span class="fragment highlight-green" data-fragment-index="2">(People)</span>
+but they are **in the world**,
+<span class="fragment fade-in highlight-green" data-fragment-index="2">(People)</span>
 <br>
-and I am coming to you.
-<span class="fragment highlight-green" data-fragment-index="1">(Personal)</span>
+and I am **coming** to you.
+<span class="fragment fade-in highlight-green" data-fragment-index="1">(Personal)</span>
 
-Holy Father, keep them in your name,
-<span class="fragment highlight-green" data-fragment-index="3">(Petition)</span>
+Holy Father, **keep** them in your name,
+<span class="fragment fade-in highlight-green" data-fragment-index="3">(Petition)</span>
 <br>
 which you have given me, <br>
-that they may be one,
-<span class="fragment highlight-green" data-fragment-index="4">(Purpose)</span>
+that they may be **one**,
+<span class="fragment fade-in highlight-green" data-fragment-index="4">(Purpose)</span>
 <br>
 even as we are one.
 
@@ -182,11 +182,11 @@ and not one of them has been lost
 The LORD is your **keeper**;<br>
 the LORD is your *shade* on your right hand.
 
-[7](# "ref") 
+[7](# "ref")
 The LORD will **keep** you from all *evil*;<br>
 he will **keep** your *life*.
 
-[8](# "ref") 
+[8](# "ref")
 The LORD will **keep**<br>
 your *going* out and your *coming* in<br>
 from this time forth and forevermore.
@@ -198,7 +198,7 @@ from this time forth and forevermore.
 ---
 I have **manifested** your name <br>
 to the people whom **you gave me** <br>
-out of the world. 
+out of the world.
 
 **Yours** they were, <br>
 and you **gave** them to me, <br>
@@ -214,7 +214,7 @@ and they have **kept** your word.
 
 ---
 You did **not** choose me, <br>
-but I **chose** you 
+but I **chose** you
 
 and **appointed** you that you <br>
 should go and bear **fruit**
@@ -277,10 +277,10 @@ just as **I am** not of the world.
 
 ---
 If you were **of the world**, <br>
-the world would **love** you as its own; 
+the world would **love** you as its own;
 
 but because you are **not of the world**, <br>
-but I **chose** you out of the world, 
+but I **chose** you out of the world,
 
 therefore the world **hates** you.
 
@@ -299,7 +299,7 @@ but that you **keep** them from the **evil** one.
 
 ---
 <!-- .slide: data-background="white" -->
-# Why has Jesus left us in this broken world? 
+# Why has Jesus left us in this broken world?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -335,7 +335,7 @@ that they also may be **sanctified** in truth.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have we consecrated ourselves to God's will? 
+# Have we consecrated ourselves to God's will?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
