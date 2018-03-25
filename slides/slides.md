@@ -334,7 +334,7 @@ your **word** is truth.
 [John 17:17 (ESV)](# "ref")
 
 ---
-As you **sent** me into the world,
+As you **sent** me into the world, <br>
 so I have **sent** them **into** the world.
 
 [John 17:18 (ESV)](# "ref")
@@ -343,7 +343,7 @@ so I have **sent** them **into** the world.
 + missions mindset
 
 ---
-For their sake I **consecrate** myself,
+For their sake I **consecrate** myself, <br>
 that they also may be **sanctified** in truth.
 
 [John 17:19 (ESV)](# "ref")
