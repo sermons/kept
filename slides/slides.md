@@ -118,17 +118,17 @@ your word is truth.
 ---
 And I am no longer in the world, <br>
 but they are **in the world**,
-<span class="fragment fade-in highlight-green" data-fragment-index="2">(People)</span>
+<span class="fragment" data-fragment-index="2"><strong>(People)</strong></span>
 <br>
 and I am **coming** to you.
-<span class="fragment fade-in highlight-green" data-fragment-index="1">(Personal)</span>
+<span class="fragment" data-fragment-index="1"><strong>(Personal)</strong></span>
 
 Holy Father, **keep** them in your name,
-<span class="fragment fade-in highlight-green" data-fragment-index="3">(Petition)</span>
+<span class="fragment" data-fragment-index="3"><strong>(Petition)</strong></span>
 <br>
 which you have given me, <br>
 that they may be **one**,
-<span class="fragment fade-in highlight-green" data-fragment-index="4">(Purpose)</span>
+<span class="fragment" data-fragment-index="4"><strong>(Purpose)</strong></span>
 <br>
 even as we are one.
 
@@ -153,6 +153,16 @@ which you have **given me**
   + **Anointed**: sent by God
 + **Father** God has auth to **save**
   + **gave** auth to Jesus
+
+---
+... in the name of **Jesus Christ** <br>
+I pray, **Amen**
+
+>>>
++ why **pray** in Jesus' name?
++ **clarify** who we are praying to
++ **confirm** our identity as kept in His name
++ **claim** His promises
 + Philippians: power of Jesus' name:
 
 ---
