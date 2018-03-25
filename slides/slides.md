@@ -6,7 +6,7 @@
 <!-- .slide: data-background="white" -->
 # What is Jesus' **prayer** for us?
 
-[###](#/outline "secret")
+[###](#/review "secret")
 
 ---
 [11](# "ref")
@@ -68,7 +68,7 @@ your word is truth.
 [John 17:16-17 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: id="outline" -->
+<!-- .slide: id="review" -->
 ## John: The Heart of Christ
 1. *First* Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
   1. *Second*: Galilee to Jerusalem [(ch4-5)](# "ref")
@@ -78,6 +78,11 @@ your word is truth.
   1. **High Priestly Prayer** [(ch17)](# "ref")
 1. *Crucifixion* and Resurrection [(ch18-21)](# "ref")
 
+>>>
++ direct quotes from Jesus, 12 "I Am"s
++ **3rd** Passover in Jerusalem
+  + road to the **cross**
+
 ---
 <!-- .slide: class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
@@ -86,6 +91,17 @@ your word is truth.
 1. Petition: **Kept in His Name** [(v11-19)](# "ref")
 1. Purpose: *United* as a Witness [(v20-26)](# "ref")
 
+>>>
++ prays for **Himself**
+  + **report** + **request**
++ identifies **who** He prays for
+  + distinct from the **world**
++ **petition** as He leaves this world
++ that **we** may **know** God (eternal life)
++ that the **world** may know:
+  + God **sent** Jesus
+  + God has **loved** us
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Jesus' Petition [(17:11-19)](# "ref")
@@ -93,16 +109,31 @@ your word is truth.
 1. **Hated** by the World [(v14-15)](# "ref")
 1. **Sanctified** in His Word [(v16-19)](# "ref")
 
+>>>
++ 3 requests in this section:
++ keep them in Your **Name**
++ keep them from **evil**
++ **sanctify** them in the truth
+
 ---
 And I am no longer in the world, <br>
-but they are in the world, <br>
+but they are in the world,
+<span class="fragment highlight" data-fragment-index="2">(People)</span>
+<br>
 and I am coming to you.
+<span class="fragment highlight" data-fragment-index="1">(Personal)</span>
 
-Holy Father, keep them in your name, <br>
+Holy Father, keep them in your name,
+<span class="fragment highlight" data-fragment-index="3">(Petition)</span>
+<br>
 which you have given me, <br>
 that they may be one, even as we are one.
+<span class="fragment highlight" data-fragment-index="4">(Purpose)</span>
 
 [John 17:11 (ESV)](# "ref")
+
+>>>
++ 4-point outline of ch17
 
 ---
 While I was with them, <br>
