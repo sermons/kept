@@ -142,18 +142,21 @@ even as we are one.
 + review the **purpose**: **unity**
 
 ---
-Holy Father, **keep** them in **your name**, <br>
+Holy Father, keep them in **your name**, <br>
 which you have **given me**
 
 [John 17:11 (ESV)](# "ref")
 
 >>>
-+ given **name**: Jesus Christ: **Saviour**, Anointed
-  + **Father** God has auth to **save**
++ given **name**: Jesus Christ:
+  + **Saviour**: power to save
+  + **Anointed**: sent by God
++ **Father** God has auth to **save**
   + **gave** auth to Jesus
++ Philippians: power of Jesus' name:
 
 ---
-Therefore God ... bestowed on him  <br>
+Therefore God ... **bestowed** on him  <br>
 the **name** that is above every name, ...
 
 [11](# "ref")
@@ -162,6 +165,13 @@ that **Jesus Christ is Lord**,  <br>
 to the glory of God the **Father**.
 
 [Philippians 2:9,11 (ESV)](# "ref")
+
+>>>
++ God **bestows** (gives) auth
+  + every **knee** + tongue
+  + glory goes to **Father**
++ Jesus **requests** Father to keep (fut)
+  + and **reports** how he kept (past):
 
 ---
 While I was **with** them, <br>
@@ -174,7 +184,6 @@ and not one of them has been lost
 [John 17:12 (ESV)](# "ref")
 
 >>>
-+ **report** / past
 + **kept** / guard
 + son of **perdition**
 
@@ -322,7 +331,6 @@ so I have **sent** them **into** the world.
 
 >>>
 + missions mindset
-+ Phil 1;24?
 
 ---
 For their sake I **consecrate** myself,
