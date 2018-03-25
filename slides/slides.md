@@ -70,21 +70,21 @@ your word is truth.
 ---
 <!-- .slide: id="outline" -->
 ## John: The Heart of Christ
-1. **First** Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
-  1. **Second**: Galilee to Jerusalem [(ch4-5)](# "ref")
-  1. **Third**: Galilee to Jerusalem [(ch6-8)](# "ref")
-  1. **Signs** in Jerusalem [(ch9-12)](# "ref")
-1. Instruction to the **Disciples** [(ch13-16)](# "ref")
-  1. High Priestly **Prayer** [(ch17)](# "ref")
-1. **Crucifixion** and Resurrection [(ch18-21)](# "ref")
+1. *First* Journey: Galilee to Jerusalem [(ch1-3)](# "ref")
+  1. *Second*: Galilee to Jerusalem [(ch4-5)](# "ref")
+  1. *Third*: Galilee to Jerusalem [(ch6-8)](# "ref")
+  1. *Signs* in Jerusalem [(ch9-12)](# "ref")
+1. Instruction to the *Disciples* [(ch13-16)](# "ref")
+  1. **High Priestly Prayer** [(ch17)](# "ref")
+1. *Crucifixion* and Resurrection [(ch18-21)](# "ref")
 
 ---
 <!-- .slide: class="outline" -->
 ## High Priestly Prayer [(Jn17)](# "ref")
-1. Personal: **Glorified** by the Father [(v1-5)](# "ref")
-1. People: **Belonging** to God [(v6-10)](# "ref")
-1. Petition: **Kept** in His Name [(v11-19)](# "ref")
-1. Purpose: **United** as a Witness [(v20-26)](# "ref")
+1. Personal: *Glorified* by the Father [(v1-5)](# "ref")
+1. People: *Belonging* to God [(v6-10)](# "ref")
+1. Petition: **Kept in His Name** [(v11-19)](# "ref")
+1. Purpose: *United* as a Witness [(v20-26)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -129,7 +129,11 @@ fulfilled in themselves.
 # Q1
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Jesus' Petition [(17:11-19)](# "ref")
+1. Kept in His Name [(v11-13)](# "ref")
+1. **Hated by the World** [(v14-15)](# "ref")
+1. Sanctified in His Word [(v16-19)](# "ref")
 
 ---
 I have given them your word, <br>
@@ -151,7 +155,11 @@ but that you keep them from the evil one.
 # Q2
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Jesus' Petition [(17:11-19)](# "ref")
+1. Kept in His Name [(v11-13)](# "ref")
+1. Hated by the World [(v14-15)](# "ref")
+1. **Sanctified in His Word** [(v16-19)](# "ref")
 
 ---
 They are not of the world,<br>
