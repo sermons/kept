@@ -118,17 +118,19 @@ your word is truth.
 ---
 And I am no longer in the world, <br>
 but they are in the world,
-<span class="fragment highlight" data-fragment-index="2">(People)</span>
+<span class="fragment highlight-green" data-fragment-index="2">(People)</span>
 <br>
 and I am coming to you.
-<span class="fragment highlight" data-fragment-index="1">(Personal)</span>
+<span class="fragment highlight-green" data-fragment-index="1">(Personal)</span>
 
 Holy Father, keep them in your name,
-<span class="fragment highlight" data-fragment-index="3">(Petition)</span>
+<span class="fragment highlight-green" data-fragment-index="3">(Petition)</span>
 <br>
 which you have given me, <br>
-that they may be one, even as we are one.
-<span class="fragment highlight" data-fragment-index="4">(Purpose)</span>
+that they may be one,
+<span class="fragment highlight-green" data-fragment-index="4">(Purpose)</span>
+<br>
+even as we are one.
 
 [John 17:11 (ESV)](# "ref")
 
