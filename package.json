@@ -6,7 +6,7 @@
     "sermons",
     "john"
   ],
-  "version": "1.6.23",
+  "version": "1.6.24",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "kept.seanho.com",
