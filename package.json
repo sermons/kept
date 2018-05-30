@@ -73,7 +73,6 @@
       }
     ],
     "plugins": [
-      "math/math.min.js",
       "highlight/highlight.min.js"
     ]
   },
